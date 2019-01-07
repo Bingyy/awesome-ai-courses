@@ -56,12 +56,10 @@ Still, it is taught by Chinese, recommended.
 
 [Introduction to reinforcement learning-DeepMind-Bilibili](https://www.bilibili.com/video/av32149008?from=search&seid=16236306546405457005)
 
-[Advanced Deep Learning & Reinforcement Learning
-- DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+[Advanced Deep Learning & Reinforcement Learning-DeepMind](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 
-[Advanced Deep Learning & Reinforcement Learning
-- DeepMind-Bilibili](https://www.bilibili.com/video/av36686379?from=search&seid=16236306546405457005)
+[Advanced Deep Learning & Reinforcement Learning-DeepMind-Bilibili](https://www.bilibili.com/video/av36686379?from=search&seid=16236306546405457005)
 
-More details coming consectively...
+More details coming after...
 
