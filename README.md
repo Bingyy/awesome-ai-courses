@@ -34,6 +34,7 @@ Still, it is taught by Chinese, recommended.
 
 "Making neural nets uncool again". It is using Pytorch and the course is really awesome, recommended.
 
+[MIT Deep Learning 2019](https://deeplearning.mit.edu/)
 
 
 ## Computer Vision
@@ -60,6 +61,12 @@ Still, it is taught by Chinese, recommended.
 
 
 [Advanced Deep Learning & Reinforcement Learning-DeepMind-Bilibili](https://www.bilibili.com/video/av36686379?from=search&seid=16236306546405457005)
+
+## Self Driving
+
+[MIT Self Driving 2019](https://selfdrivingcars.mit.edu/)
+
+
 
 More details coming after...
 
