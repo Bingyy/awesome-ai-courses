@@ -4,9 +4,7 @@ Machine Learning, Deep Learning courses list
 
 ## Machine Learning
 
-[Hung-yi Lee Machine Learning, NTU-2017-Bilibili](https://www.bilibili.com/video/av35932863?from=search&seid=409267335870304175) 
-
-[Hung-yi Lee Machine Learning, NTU-2017-Youtube](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+[Hung-yi Lee Machine Learning, NTU-2017-Bilibili](https://www.bilibili.com/video/av35932863?from=search&seid=409267335870304175) , [Hung-yi Lee Machine Learning, NTU-2017-Youtube](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
 
 This is Chinese version and it is really good for beginners to understand what machine learning is. Personally speaking, it is easier to be understood than CS229.
 
@@ -19,14 +17,10 @@ This is Chinese version and it is really good for beginners to understand what m
 
 [Andrew Ng CS229-Older version](http://open.163.com/special/opencourse/machinelearning.html)
 
-[Andrew Ng Machine Learning-DeepLearning.ai](https://www.coursera.org/specializations/deep-learning)
-
-[ANdrew Ng Machine Learning-DeepLearning.ai x Netease](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+[Andrew Ng Machine Learning-DeepLearning.ai](https://www.coursera.org/specializations/deep-learning), [ANdrew Ng Machine Learning-DeepLearning.ai x Netease](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
 
-[Hung-yi Lee Deep Learning-2017-Bilibili](https://www.bilibili.com/video/av9770302)
-
-[Hung-yi Lee Deep Learning-2017-Youtube](https://www.bilibili.com/video/av9770302)
+[Hung-yi Lee Deep Learning-2017-Bilibili](https://www.bilibili.com/video/av9770302), [Hung-yi Lee Deep Learning-2017-Youtube](https://www.bilibili.com/video/av9770302)
 
 Still, it is taught by Chinese, recommended.
 
@@ -39,9 +33,9 @@ Still, it is taught by Chinese, recommended.
 
 ## Computer Vision
 
-[Feifei Li-Stanford University CS231n, Spring 2017-Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+[Feifei Li Stanford University CS231n, Spring 2017-Bilibili](https://www.bilibili.com/video/av13260183?from=search&seid=3965489559041920395)
 
-[Feifei Li-Stanford University CS231n, Spring 2017-Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+[Feifei Li Stanford University CS231n, Spring 2017-Youtube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 
 ## NLP
